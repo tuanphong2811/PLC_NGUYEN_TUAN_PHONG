@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=PWM_3 Pin=U1-38
+Removed Pin From Net: NetName=PWM_1 Pin=U1-40
+Added Pin To Net: NetName=PWM_1 Pin=U1-38
+Added Pin To Net: NetName=PWM_3 Pin=U1-40
+Added Room: Name=MCU_PCL
+Added Room: Name=U_A_Input
+Added Room: Name=U_D_Input
+Added Room: Name=U_D_Output
+Added Room: Name=U_POWER
+Added Room: Name=U_PWM
+Added Room: Name=U_RS323
+Added Room: Name=U_RS485
+Added Room: Name=U_WIFI

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=IC1 Old Footprint=DIP16/W0.3 New Footprint=SO-G16
+Added Room: Name=MCU_PCL
+Added Room: Name=U_D_Input
+Added Room: Name=U_POWER

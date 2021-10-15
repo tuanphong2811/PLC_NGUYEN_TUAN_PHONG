@@ -1,0 +1,4 @@
+Added Component: Designator=S1(SWITCH_SPDT_SLIDER)
+Added Component: Designator=U5(SO8W_N)
+Added Room: Name=MCU_PCL
+Added Room: Name=U_POWER

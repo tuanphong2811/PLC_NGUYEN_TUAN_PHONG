@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=A_N Pin=P2-1
+Removed Pin From Net: NetName=A_P Pin=P2-2
+Removed Pin From Net: NetName=AI3 Pin=P4-1
+Removed Pin From Net: NetName=AI1 Pin=P4-3
+Added Pin To Net: NetName=A_P Pin=P2-1
+Added Pin To Net: NetName=A_N Pin=P2-2
+Added Pin To Net: NetName=AI1 Pin=P4-1
+Added Pin To Net: NetName=AI3 Pin=P4-3
+Added Member To Class: ClassName=U_PWM Member=Component P1 CON 4 EDG5.08
+Added Member To Class: ClassName=U_RS485 Member=Component P2 CON 2 EDG5.08
+Added Member To Class: ClassName=U_A_Input Member=Component P4 CON 3 EDG5.08
+Added Room: Name=MCU_PCL
+Added Room: Name=U_A_Input
+Added Room: Name=U_D_Input
+Added Room: Name=U_D_Output
+Added Room: Name=U_POWER
+Added Room: Name=U_PWM
+Added Room: Name=U_RS323
+Added Room: Name=U_RS485
+Added Room: Name=U_WIFI

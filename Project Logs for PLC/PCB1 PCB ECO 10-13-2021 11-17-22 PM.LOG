@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND_DI Pin=P8-1
+Removed Pin From Net: NetName=DI9 Pin=P8-2
+Removed Pin From Net: NetName=DI10 Pin=P8-3
+Removed Pin From Net: NetName=DI11 Pin=P8-4
+Removed Pin From Net: NetName=DI12 Pin=P8-5
+Removed Member From Class: ClassName=U_POWER Member=P3
+Removed Member From Class: ClassName=U_D_Output Member=P7
+Added Pin To Net: NetName=DI9 Pin=P8-1
+Added Pin To Net: NetName=DI10 Pin=P8-2
+Added Pin To Net: NetName=DI11 Pin=P8-3
+Added Pin To Net: NetName=DI12 Pin=P8-4
+Added Pin To Net: NetName=GND_DI Pin=P8-5
+Added Member To Class: ClassName=U_POWER Member=Component P2 CON 2 EDG5.08
+Added Member To Class: ClassName=U_D_Output Member=Component P4 CON 5 EDG5.08
+Added Member To Class: ClassName=U_D_Output Member=Component P6 CON 4 EDG5.08
+Added Room: Name=MCU_PCL
+Added Room: Name=U_D_Input
+Added Room: Name=U_POWER

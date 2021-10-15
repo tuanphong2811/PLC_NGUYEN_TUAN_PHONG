@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=DI9 Pin=P9-1
+Removed Pin From Net: NetName=DI10 Pin=P9-2
+Removed Pin From Net: NetName=DI12 Pin=P9-4
+Removed Pin From Net: NetName=GND_DI Pin=P9-5
+Removed Member From Class: ClassName=U_POWER Member=P4
+Removed Member From Class: ClassName=U_RS485 Member=P4
+Removed Member From Class: ClassName=U_D_Output Member=P8
+Added Pin To Net: NetName=GND_DI Pin=P9-1
+Added Pin To Net: NetName=DI12 Pin=P9-2
+Added Pin To Net: NetName=DI10 Pin=P9-4
+Added Pin To Net: NetName=DI9 Pin=P9-5
+Added Member To Class: ClassName=U_RS485 Member=Component P2 CON 2 EDG5.08
+Added Member To Class: ClassName=U_POWER Member=Component P3 CON 2 EDG5.08
+Added Member To Class: ClassName=U_D_Output Member=Component P5 CON 5 EDG5.08
+Added Member To Class: ClassName=U_D_Output Member=Component P7 CON 4 EDG5.08
+Added Room: Name=MCU_PCL
+Added Room: Name=U_D_Input
+Added Room: Name=U_POWER

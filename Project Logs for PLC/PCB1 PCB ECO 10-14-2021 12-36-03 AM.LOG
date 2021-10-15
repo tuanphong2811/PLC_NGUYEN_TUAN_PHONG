@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=A_N Pin=KF1-1
+Removed Pin From Net: NetName=A_P Pin=KF1-2
+Removed Pin From Net: NetName=D01 Pin=P4-2
+Removed Pin From Net: NetName=D02 Pin=P4-3
+Removed Pin From Net: NetName=D03 Pin=P4-4
+Removed Pin From Net: NetName=D04 Pin=P4-5
+Removed Pin From Net: NetName=D05 Pin=P5-2
+Removed Pin From Net: NetName=D06 Pin=P5-3
+Removed Pin From Net: NetName=D07 Pin=P5-4
+Removed Pin From Net: NetName=D08 Pin=P5-5
+Removed Pin From Net: NetName=D09 Pin=P6-2
+Removed Pin From Net: NetName=D09 Pin=P6-2
+Removed Pin From Net: NetName=D11 Pin=P6-4
+Removed Pin From Net: NetName=D_IN12 Pin=U1-50
+Removed Pin From Net: NetName=D_IN11 Pin=U1-51
+Removed Pin From Net: NetName=D_IN10 Pin=U1-52
+Removed Pin From Net: NetName=D_IN9 Pin=U1-53
+Removed Pin From Net: NetName=D_IN8 Pin=U1-54
+Removed Pin From Net: NetName=D_IN7 Pin=U1-55
+Removed Pin From Net: NetName=D_IN6 Pin=U1-56
+Removed Pin From Net: NetName=D_IN5 Pin=U1-57
+Removed Pin From Net: NetName=D_IN4 Pin=U1-58
+Removed Pin From Net: NetName=D_IN3 Pin=U1-59
+Removed Pin From Net: NetName=D_IN2 Pin=U1-61
+Removed Pin From Net: NetName=D_IN1 Pin=U1-62
+Removed Member From Class: ClassName=U_RS323 Member=C13
+Removed Member From Class: ClassName=U_RS485 Member=KF1
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Change Component Designator: OldDesignator=P3 NewDesignator=P4
+Change Component Designator: OldDesignator=P4 NewDesignator=P5
+Change Component Designator: OldDesignator=P5 NewDesignator=P6
+Change Component Designator: OldDesignator=P6 NewDesignator=P7
+Change Component Designator: OldDesignator=P7 NewDesignator=P8
+Change Component Designator: OldDesignator=P8 NewDesignator=P9
+Added Component: Designator=P2(CON 2 2EDG5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000759"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 2EDG5.08-2P 5.08MM ( Xanh Cong)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A_N Pin=P2-1
+Added Pin To Net: NetName=A_P Pin=P2-2
+Added Pin To Net: NetName=D04 Pin=P5-2
+Added Pin To Net: NetName=D03 Pin=P5-3
+Added Pin To Net: NetName=D02 Pin=P5-4
+Added Pin To Net: NetName=D01 Pin=P5-5
+Added Pin To Net: NetName=D08 Pin=P6-2
+Added Pin To Net: NetName=D07 Pin=P6-3
+Added Pin To Net: NetName=D06 Pin=P6-4
+Added Pin To Net: NetName=D05 Pin=P6-5
+Added Pin To Net: NetName=D11 Pin=P7-2
+Added Pin To Net: NetName=D11 Pin=P7-2
+Added Pin To Net: NetName=D09 Pin=P7-4
+Added Pin To Net: NetName=D_IN1 Pin=U1-50
+Added Pin To Net: NetName=D_IN2 Pin=U1-51
+Added Pin To Net: NetName=D_IN3 Pin=U1-52
+Added Pin To Net: NetName=D_IN4 Pin=U1-53
+Added Pin To Net: NetName=D_IN5 Pin=U1-54
+Added Pin To Net: NetName=D_IN6 Pin=U1-55
+Added Pin To Net: NetName=D_IN7 Pin=U1-56
+Added Pin To Net: NetName=D_IN8 Pin=U1-57
+Added Pin To Net: NetName=D_IN9 Pin=U1-58
+Added Pin To Net: NetName=D_IN10 Pin=U1-59
+Added Pin To Net: NetName=D_IN11 Pin=U1-61
+Added Pin To Net: NetName=D_IN12 Pin=U1-62
+Change Net Name : Old Net Name=NetP2_1 New Net Name=NetP3_1
+Added Member To Class: ClassName=U_RS323 Member=Component C10 104
+Added Member To Class: ClassName=U_RS323 Member=Component C12 104
+Added Member To Class: ClassName=U_POWER Member=Component C14 470uF
+Added Member To Class: ClassName=U_POWER Member=Component C16 470uF
+Added Member To Class: ClassName=U_POWER Member=Component C18 104
+Added Member To Class: ClassName=U_RS485 Member=Component P2 CON 2 EDG5.08

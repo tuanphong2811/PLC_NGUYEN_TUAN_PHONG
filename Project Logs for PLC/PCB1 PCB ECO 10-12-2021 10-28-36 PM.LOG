@@ -1,0 +1,27 @@
+Change Component Footprint: Designator=C13 Old Footprint=tu tantalum smd7343 New Footprint=tu hoa 10mm
+Change Component Footprint: Designator=C15 Old Footprint=tu tantalum smd7343 New Footprint=tu hoa 10mm
+Change Component Footprint: Designator=C16 Old Footprint=tu tantalum smd7343 New Footprint=tu hoa 10mm
+Change component parameters: Designator = "C13" ("C13"); Footprint = "tu tantalum smd7343"; UniqueID = "\XYPOVNPU\EBIKMHUK" ("\XYPOVNPU\EBIKMHUK")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH002204"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 470uF 35V 10x15MM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "tu tantalum smd7343"; UniqueID = "\XYPOVNPU\HWYOWWIM" ("\XYPOVNPU\HWYOWWIM")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH002204"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 470uF 35V 10x15MM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "tu tantalum smd7343"; UniqueID = "\XYPOVNPU\DMWRNEBR" ("\XYPOVNPU\DMWRNEBR")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH002204"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 470uF 35V 10x15MM"; VariantName = "[No Variations]"
+Added Component: Designator=S1(SWITCH_SPDT_SLIDER)
+Added Component: Designator=U5(SO8W_N)
+Added Room: Name=MCU_PCL

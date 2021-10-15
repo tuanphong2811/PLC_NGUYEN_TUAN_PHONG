@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND Pin=KF2-2
+Removed Member From Class: ClassName=U_POWER Member=KF2
+Removed Member From Class: ClassName=U_POWER Member=U5
+Removed Member From Class: ClassName=U_RS485 Member=U5
+Removed Member From Class: ClassName=U_D_Input Member=U17
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Change Component Designator: OldDesignator=P3 NewDesignator=P4
+Change Component Designator: OldDesignator=P4 NewDesignator=P5
+Change Component Designator: OldDesignator=P5 NewDesignator=P6
+Change Component Designator: OldDesignator=P6 NewDesignator=P7
+Change Component Designator: OldDesignator=P7 NewDesignator=P8
+Added Component: Designator=P2(CON 2 2EDG5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000759"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 2EDG5.08-2P 5.08MM ( Xanh Cong)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=S1-2
+Added Net: Name=NetP2_1
+Added Member To Class: ClassName=U_POWER Member=Component P2 CON 2 EDG5.08
+Added Member To Class: ClassName=U_POWER Member=Component U6 LM2576HVS 5.0V SMD
+Added Member To Class: ClassName=U_D_Output Member=Component U8 OPTO PC817 SMD
+Added Member To Class: ClassName=U_D_Output Member=Component U10 OPTO PC817 SMD
+Added Member To Class: ClassName=U_D_Output Member=Component U12 OPTO PC817 SMD
+Added Member To Class: ClassName=U_D_Output Member=Component U16 OPTO PC817 SMD
+Added Member To Class: ClassName=U_D_Input Member=Component U18 OPTO PC817 SMD
+Added Member To Class: ClassName=U_D_Input Member=Component U20 OPTO PC817 SMD
+Added Member To Class: ClassName=U_D_Input Member=Component U22 OPTO PC817 SMD
+Added Member To Class: ClassName=U_D_Input Member=Component U25 OPTO PC817 SMD
+Added Member To Class: ClassName=U_D_Input Member=Component U28 OPTO PC817 SMD
